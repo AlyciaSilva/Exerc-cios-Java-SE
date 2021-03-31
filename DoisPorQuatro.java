@@ -1,6 +1,6 @@
 package doisporquatro;
 import java.util.Random;
-public class Doisporquatro {
+public class DoisPorQuatro {
     public static void main(String[] args) {
         int twofour[][] = new int[2][4];
         Random makenumber = new Random();
